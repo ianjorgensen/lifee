@@ -1,12 +1,13 @@
 {
   "name": "lifee",
-  "version": "0.0.0",
+  "version": "0.6.0",
   "main": "server.js",
   "description":"A dynamic web server. Never hit refresh again",
+  "author": "Ian Jorgensen <jorgensen.ian@gmail.com>",
   "contributors": [
    "Ian Jorgensen <Jorgensen.ian@gmail.com>",
    "Bjarke Walling <bwp@bwp.dk>"
-  ],
+  ], 
   "dependencies": {
     "common": "~0.2.1",
     "less": "~1.3.0",
