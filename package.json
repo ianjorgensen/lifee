@@ -1,6 +1,6 @@
 {
   "name": "lifee",
-  "version": "0.6.0",
+  "version": "0.6.5",
   "main": "server.js",
   "description":"A dynamic web server. Never hit refresh again",
   "author": "Ian Jorgensen <jorgensen.ian@gmail.com>",
